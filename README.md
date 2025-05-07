@@ -8,20 +8,19 @@ ________________________________________________________________________________
 
 - 🎓 *Formação:* Cursando Arquitetura de Dados | Desenvolvedora de Software | Desenvolvedora FullStack
 - 💻 *Atualmente:* Focada no desenvolvimento fullstack
-- 📊 *Habilidades:* Java, SQL, Javascript, HTML e CSS
+- 📊 *Habilidades:* Java, Javascript, HTML e CSS
 - 🌍 *Idiomas:* Português (nativo), Espanhol (básico)
 
 ## 🚀 Sobre mí:
 
 - 🎓 *Formación:* Cursando Arquitectura de Datos | Desarrolladora de Software | Desarrolladora FullStack
 - 💻 *Actualmente:* Enfocada en el desarrollo fullstack
-- 📊 *Habilidades:* Java, SQL, Javascript, HTML y CSS
+- 📊 *Habilidades:* Java, Javascript, HTML y CSS
 - 🌍 *Idiomas:* Portugués (nativo), Español (básico)
 
 ## 🛠️ Tecnologias e Ferramentas || Tecnologías y Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=java">
-  <img src="https://skillicons.dev/icons?i=mysql">
   <img src="https://skillicons.dev/icons?i=js">
   <img src="https://skillicons.dev/icons?i=html">
   <img src="https://skillicons.dev/icons?i=css">
