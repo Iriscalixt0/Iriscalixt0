@@ -1,4 +1,4 @@
-<h1 align="center">🌼 Thamiris Calixto Bordião 🌼</h1>
+<h1 align="center">🌼 Thamiris Calixto 🌼</h1>
 <h3 align="center">Desenvolvedora Full Stack | Full Stack Developer</h3>
 
 <p align="center">
@@ -8,18 +8,32 @@ Welcome to my GitHub! Every project here carries a piece of dedication and passi
 
 ---
 
-## 🚀 Sobre mim / About Me
+## 🚀 Sobre mim  
 
-- 🎓 **Formação / Education:** Tecnóloga em Análise e Desenvolvimento de Sistemas | Formação em Desenvolvimento de Software  
-- 💻 **Atualmente / Currently:** Focada em desenvolvimento Full Stack / Focused on Full Stack development  
-- 📊 **Habilidades / Skills:** Java, JavaScript, React.js, HTML, CSS, MySQL  
-- 🌍 **Idiomas / Languages:** Português (nativo) | Inglês (intermediário) | Espanhol (básico)  
+- 🎓 **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas | Formação em Desenvolvimento de Software
+
+- 💻 **Atualmente:** Focada em desenvolvimento Full Stack
+  
+- 📊 **Habilidades:** Java, JavaScript, React.js, HTML, CSS, MySQL
+  
+- 🌍 **Idiomas:** Português (nativo) | Inglês (intermediário) | Espanhol (básico)
+  
+---
+## 🚀 About Me
+
+- 🎓 **Education:** Technologist in Systems Analysis and Development | Software Development Training  
+
+- 💻 **Currently:** Focused on Full Stack development  
+
+- 📊 **Skills:** Java, JavaScript, React.js, HTML, CSS, MySQL
+
+- 🌍 **Languages:** Portuguese (native) | English (intermediate) | Spanish (basic)  
 
 ---
+  
+## 🛠️ Tecnologias e Ferramentas  /  🛠️ Technologies & Tools
 
-## 🛠️ Tecnologias e Ferramentas / Technologies & Tools
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=html" />
@@ -31,23 +45,29 @@ Welcome to my GitHub! Every project here carries a piece of dedication and passi
 
 ---
 
-## 📂 Projetos em Destaque / Featured Projects
+## 🎯 Objetivo 
 
-### 🎮 RPG-Fight-Game
-Turn-based RPG fight game inspired by classic RPGs. Developed using Java with Object-Oriented Programming concepts.  
-**Technologies / Tecnologias:** Java, OOP, Console  
-[Repositório / Repository](https://github.com/Iriscalixt0)
+**Português:** Atuar como Desenvolvedora Full Stack Júnior ou Estagiária em Desenvolvimento de Software, aplicando conhecimentos em Java, JavaScript, React.js, HTML, CSS, MySQL e APIs RESTful para contribuir em equipes ágeis e projetos inovadores.  
 
-### 🌐 VozesDoMundo-SITE
-Institutional website for a fictional organization focused on music and education. Developed with HTML and CSS, responsive and semantic design.  
-**Technologies / Tecnologias:** HTML5, CSS3, Web Fonts, Responsiveness  
-[Repositório / Repository](https://github.com/Iriscalixt0)
+## 🎯 Goal
+
+**English:** Work as a Junior Full Stack Developer or Software Development Intern, applying skills in Java, JavaScript, React.js, HTML, CSS, MySQL, and RESTful APIs to contribute to agile teams and innovative projects.
 
 ---
 
-## 📫 Contato / Contact
+## 💡 Atividades Complementares  
 
-<p align="center">
+- PT: Voluntária em projetos de apoio a ONGs – FreeHelper 2025. Participação em iniciativas de rebranding e suporte digital.  
+
+## 💡 Additional Activities
+
+- EN: Volunteer in NGO support projects – FreeHelper 2025. Participation in rebranding initiatives and digital support.
+
+---
+
+## 📫 Contato /  📫 Contact 
+
+<p align="left">
   <a href="https://www.linkedin.com/in/thamiriscalixt0">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" />
   </a>
@@ -58,21 +78,6 @@ Institutional website for a fictional organization focused on music and educatio
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" />
   </a>
 </p>
-
----
-
-## 🎯 Objetivo / Goal
-
-**Português:** Atuar como Desenvolvedora Full Stack Júnior ou Estagiária em Desenvolvimento de Software, aplicando conhecimentos em Java, JavaScript, React.js, HTML, CSS, MySQL e APIs RESTful para contribuir em equipes ágeis e projetos inovadores.  
-
-**English:** Work as a Junior Full Stack Developer or Software Development Intern, applying skills in Java, JavaScript, React.js, HTML, CSS, MySQL, and RESTful APIs to contribute to agile teams and innovative projects.
-
----
-
-## 💡 Atividades Complementares / Additional Activities
-
-- Voluntária em projetos de apoio a ONGs – FreeHelper 2025  
-  Participação em iniciativas de rebranding e suporte digital / Involved in rebranding initiatives and digital support
 
 ---
 
