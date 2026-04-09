@@ -1,45 +1,55 @@
-<h1 align="center">🌼 Thamiris Calixto 🌼</h1>
-<h3 align="center">Desenvolvedora Full Stack | Full Stack Developer</h3>
+<h1 align="center">🌼 Íris Calixto 🌼</h1>
+<h3 align="center">Full-Stack Developer | AI & Scalable Systems</h3>
 
 <p align="center">
-Bem-vindo ao meu GitHub! Cada projeto aqui tem um pedacinho de dedicação e paixão. <br>
-Welcome to my GitHub! Every project here carries a piece of dedication and passion. 😊
+Construindo aplicações escaláveis, automações com IA e produtos digitais com impacto real. <br>
+Building scalable applications, AI-driven automations, and impactful digital products. 🚀
 </p>
 
 ---
 
 ## 🚀 Sobre mim  
 
-- 🎓 **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas | Formação em Desenvolvimento de Software
+- 💻 **Atuação:** Full-Stack Developer com foco em aplicações escaláveis e soluções end-to-end  
 
-- 💻 **Atualmente:** Focada em desenvolvimento Full Stack
-  
-- 📊 **Habilidades:** Java, JavaScript, React.js, HTML, CSS, MySQL
-  
+- 🧠 **Especialidades:** Arquitetura de Software e Dados | APIs REST | UX/UI | Performance  
+
+- ⚙️ **Stack:** Java, Node.js, TypeScript, Next.js, React  
+
+- ☁️ **Infra & DevOps:** Docker, Kubernetes, CI/CD, ArgoCD  
+
 - 🌍 **Idiomas:** Português (nativo) | Inglês (intermediário) | Espanhol (básico)
-  
+
 ---
+
 ## 🚀 About Me
 
-- 🎓 **Education:** Technologist in Systems Analysis and Development | Software Development Training  
+- 💻 **Role:** Full-Stack Developer focused on scalable applications and end-to-end solutions  
 
-- 💻 **Currently:** Focused on Full Stack development  
+- 🧠 **Expertise:** Software & Data Architecture | REST APIs | UX/UI | Performance  
 
-- 📊 **Skills:** Java, JavaScript, React.js, HTML, CSS, MySQL
+- ⚙️ **Stack:** Java, Node.js, TypeScript, Next.js, React  
 
-- 🌍 **Languages:** Portuguese (native) | English (intermediate) | Spanish (basic)  
+- ☁️ **Infra & DevOps:** Docker, Kubernetes, CI/CD, ArgoCD  
+
+- 🌍 **Languages:** Portuguese (native) | English (intermediate) | Spanish (basic)
 
 ---
-  
+
 ## 🛠️ Tecnologias e Ferramentas  /  🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
@@ -47,21 +57,21 @@ Welcome to my GitHub! Every project here carries a piece of dedication and passi
 
 ## 🎯 Objetivo 
 
-**Português:** Atuar como Desenvolvedora Full Stack Júnior ou Estagiária em Desenvolvimento de Software, aplicando conhecimentos em Java, JavaScript, React.js, HTML, CSS, MySQL e APIs RESTful para contribuir em equipes ágeis e projetos inovadores.  
+**Português:** Atuar como Desenvolvedora Full Stack em projetos desafiadores, contribuindo com soluções escaláveis, arquitetura bem definida e boas práticas de engenharia de software, além de evoluir continuamente em IA aplicada e sistemas distribuídos.  
 
 ## 🎯 Goal
 
-**English:** Work as a Junior Full Stack Developer or Software Development Intern, applying skills in Java, JavaScript, React.js, HTML, CSS, MySQL, and RESTful APIs to contribute to agile teams and innovative projects.
+**English:** Work as a Full-Stack Developer on challenging projects, contributing with scalable solutions, well-defined architecture, and strong software engineering practices, while continuously growing in AI and distributed systems.
 
 ---
 
-## 💡 Atividades Complementares  
+## 💡 Experiência & Destaques  
 
-- PT: Voluntária em projetos de apoio a ONGs – FreeHelper 2025. Participação em iniciativas de rebranding e suporte digital.  
-
-## 💡 Additional Activities
-
-- EN: Volunteer in NGO support projects – FreeHelper 2025. Participation in rebranding initiatives and digital support.
+- 🚀 Desenvolvimento de aplicações web completas (frontend + backend)  
+- 🧠 Construção de soluções com foco em automação e IA  
+- ⚙️ Experiência com pipelines CI/CD e ambientes produtivos  
+- 📊 Desenvolvimento de interfaces modernas, responsivas e centradas no usuário  
+- 🌍 Participação em produto digital com atuação internacional  
 
 ---
 
@@ -82,6 +92,6 @@ Welcome to my GitHub! Every project here carries a piece of dedication and passi
 ---
 
 <p align="center">
-"Aprender nunca é demais, e programar é transformar ideias em realidade." <br>
-"Learning is never too much, and programming is turning ideas into reality."
+"Transformando ideias em produtos reais através de tecnologia, estratégia e inovação." <br>
+"Turning ideas into real products through technology, strategy, and innovation."
 </p>
